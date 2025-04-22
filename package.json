@@ -1,12 +1,17 @@
 {
   "name": "flyluse-landing",
   "version": "1.0.0",
+<<<<<<< HEAD
+=======
+  "private": true,
+>>>>>>> 36a137b26c859414928b3e2c7e8f62a8997c553c
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@supabase/supabase-js": "^2.39.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -16,3 +21,15 @@
     "vite": "^4.0.0"
   }
 }
+=======
+    "framer-motion": "^10.16.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "supabase": "^2.22.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2",
+    "vite": "^6.3.2"
+  }
+}
+>>>>>>> 36a137b26c859414928b3e2c7e8f62a8997c553c
